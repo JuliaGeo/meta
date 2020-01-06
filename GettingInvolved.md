@@ -4,7 +4,7 @@ We are all volunteering in our free time to help provide a user-friendly ecosyst
 Here's a set of guidelines if you want to
 
 ## Develop your own package
-1. Familiarize yourself with the julia manual on [working with packages](http://docs.julialang.org/en/latest/manual/packages/).
+1. Familiarize yourself with the julia manual on [working with packages](https://julialang.github.io/Pkg.jl/v1/).
 2. If you don't have the intention of fixing bugs, or maintaining the package, you're good to go! New users can use your package with a call to `Pkg.clone(<insert-your-git-repo>)`.
 3. If you intend to maintain the package, and would like to make it more widely known/usable, depending on your target audience: announce on [julia-users](https://groups.google.com/forum/#!forum/julia-users) and/or [julia-geo](https://groups.google.com/forum/#!forum/julia-geo). It is common/recommended practice to prefix the title with `[ANN]` to stand for "announcement".
 
@@ -31,7 +31,7 @@ Get any of the current owners to add you. They will generally be willing to do s
 None of these are set in stone, and it's mainly to verify that you're familiar with the process of filing-bugs/surfacing-issues/providing-documentation/reviewing-pull-requests, and are willing to do so. Any other avenue for demonstrating them might be be sufficient justification for your inclusion.
 
 ## Help out, but don't know where to begin
-Have a look at the following [guide for contributions](https://github.com/IainNZ/ContributeToJulia), written by Iain.
+Have a look at the following [guide for contributions](https://github.com/kshyatt/ContributeToJulia), written by Katharine.
 
 ## Ask questions for how a given package should work
 
